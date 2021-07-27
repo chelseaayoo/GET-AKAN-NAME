@@ -11,7 +11,7 @@ function getInput(){
     alert("Please enter the correct data");
     return false;
   }else if (year == ""){
-    alert("Input the correct year");
+    alert("Please enter the correct data");
     return false;
   }else if (month == ""){
     alert("Input the correct month");
