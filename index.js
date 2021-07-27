@@ -19,6 +19,8 @@ function getInput(){
   }else if(dayOfMonth == ""){
     alert("Please enter the correct date");
     return false;
+  }else if (month == "2" && dayOfMonth >= "30"){
+      alert("Day must not be greater than or equal to 30 because you were born in February")
   }
 }
 
