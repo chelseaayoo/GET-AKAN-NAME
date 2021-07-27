@@ -14,7 +14,7 @@ function getInput(){
     alert("Please enter the correct data");
     return false;
   }else if (month == ""){
-    alert("Input the correct month");
+    alert("Please enter the correct data");
     return false;
   }else if(dayOfMonth == ""){
     alert("input the correct date");
