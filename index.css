@@ -1,5 +1,5 @@
 body {
-	max-height: 500px;
+	max-height: 50px;
 	background-color: #e0e0e0;
 	text-align: center;
 	max-width: 50%;
@@ -8,20 +8,10 @@ body {
 
 h2 {
 	text-align: center;
-	margin-top: 100px;
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 4em;
+	font-size: 1em;
     color:purple;
 	font-weight: 400;
-	margin-left: 25%;
-}
-
-.icon {
-	max-width: 300px;
-	float: left;
-	border-radius: 300px 300px 300px 300px;
-
-
 }
 
 p {
@@ -31,22 +21,15 @@ p {
 	display: block;
 	font-weight: bold;
 	text-indent: 0;
-	margin: 7% auto 150px auto;
 
 }
 
 h3{
-	color: #239f95;
+	color: purple;
 		font-family: 'Ubuntu', sans-serif;
-		margin-left: 20%;
-		padding: 5%;
+	font-size: 1em;	
 }
 
-
-.middle-container{
-	max-width: 50%;
-	margin-left:35%;
-}
 
 span{
 	color: #f34573;
@@ -54,9 +37,10 @@ span{
 
 h3 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #28544b;
+	color: purple;
 	font-weight: 300;
-	font-size: 2em;
+	font-size: 1em;
+	text-align: center;
 }
 .h1{
     color: royalblue;
