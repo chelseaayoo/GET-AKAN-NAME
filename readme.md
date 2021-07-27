@@ -28,7 +28,7 @@ HTML,CSS and JavaScript. JavaScript is the main programming language for the web
 ## Support and contact details
 If you have any questions,suggestions and comments, feel free to contact me via chelsea.ayoo@student.moringaschool.com. I will be glad to hear from you. Let us make coding more fruitful and fun.
 ### License
-*{Copyright (c) {2021} **{ONYANGO ANIPHER CHELSEA AYOO}**
+*{Copyright (c) {2021} ONYANGO ANIPHER CHELSEA AYOO.
     MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -49,5 +49,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }*
-Copyright (c) {2021} **{ONYANGO ANIPHER CHELSEA AYOO}**
+Copyright (c) {2021} ONYANGO ANIPHER CHELSEA AYOO.
   
